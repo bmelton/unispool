@@ -11,3 +11,5 @@ This relies on a stencil font that is of course easy to install locally, but may
 Layer height: 0.2 mm or 0.16 mm. given the 1 mm wall thickness, this ensures 5–6 solid layers, which is critical for the structural integrity of the stencil bridges.
 
 Print in PETG or above if you use your AMS heater. PLA might be fine in original AMS units. 
+
+[Setting diameter to '200' and text to 'Polymaker'](<img width="482" height="385" alt="image" src="https://github.com/user-attachments/assets/73a08202-f09b-49bf-972d-b5acf6731f03" />)
