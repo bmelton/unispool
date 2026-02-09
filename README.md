@@ -1,6 +1,6 @@
-# Unispool
+# Paraspool
 
-A universal cardboard rim adapter. Designed to be filament friendly, truly universal, and to accommodate any rim size you can think of. 
+A parametric cardboard rim adapter that is designed to be filament friendly, truly universal, and to accommodate any rim size you can think of. 
 
 It accepts rim diameter and text as optional parameters.
 
