@@ -19,3 +19,7 @@ label_text = "Polymaker";
 ```
 ![Setting diameter to '200' and text to 'Polymaker'](https://github.com/user-attachments/assets/73a08202-f09b-49bf-972d-b5acf6731f03)
 
+
+## License
+
+Just a small note on licensing, but while the software assets are MIT-licensed (as shown in the LICENSE.md,) the STL artifacts are released as CC-BY. That is of course reflected by the LICENSE.md in the `assets/` folder. I only note it here because it is not necessarily obvious to look in a subfolder for a separate license, but I understand this is common in open hardware projects (I'm a noob here.)
