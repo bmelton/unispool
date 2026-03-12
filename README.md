@@ -30,6 +30,7 @@ Just a small note on licensing, but while the software assets are MIT-licensed (
 
 This isn't a roadmap so much as it is a braindump of things I'd like to do in the future. 
 
+- RFID tag support
 - I really want to incorporate the eSun cardboard spools, specifically because of [this project](https://makerworld.com/en/models/1234875-reusable-cardboard-spool-ams-lite-compatible?from=recommend#profileId-1254346)
 - I understand that Polymaker has two sizes of spools. I've yet to encounter more than the one, which is covered, but I'd like to seek out the other.
 
